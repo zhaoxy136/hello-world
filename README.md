@@ -1,2 +1,2 @@
 # hello-world
-Some brilliant ideas about Algorithm
+Some brilliant ideas about Algorithms
