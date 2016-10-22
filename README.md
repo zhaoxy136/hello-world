@@ -2,6 +2,7 @@
 Hello,everyone. My name is Barry, since my favorite character is the Flash of DC comics.
 I am not a CS student but I love coding.
 
+When I first come to GitHub and first time heard about 'git'...  
 --First time I know 'git' ... WAT? Git? you mean.. eh.. bastard?!   
 --Absolutely not, bro. It's a version control system used for software development.   
 --Still so obscure...   
